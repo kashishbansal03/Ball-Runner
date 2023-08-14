@@ -9,7 +9,7 @@ Graphically, the game comes to life with stunning visual effects, powered by Uni
 
 As you immerse yourself in the Endless Ball Runner, remember that beneath the seamless gameplay and dazzling visuals lies a technical marvel driven by Unity's prowess. So, gear up to explore an ever-evolving challenge and experience the synergy of Unity's engine and our game design expertise."
 
-#Landing View
+# Landing View
 ![image](https://github.com/kashishbansal03/Ball-Runner/assets/112632578/fdbc79b7-af87-43fd-9863-2fc37fe5f6a3)
 
 #Game Over 
@@ -17,7 +17,7 @@ As you immerse yourself in the Endless Ball Runner, remember that beneath the se
 
 
 
-#Collection of coins
+# Collection of coins
 
 <img width="1440" alt="Screenshot 2023-08-14 at 10 46 26 PM" src="https://github.com/kashishbansal03/Ball-Runner/assets/112632578/f7ba022b-4b71-4f0d-b5d6-dbcb6f6f968a">
 
