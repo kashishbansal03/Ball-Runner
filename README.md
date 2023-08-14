@@ -16,7 +16,11 @@ As you immerse yourself in the Endless Ball Runner, remember that beneath the se
 <img width="1440" alt="Screenshot 2023-08-14 at 10 45 28 PM" src="https://github.com/kashishbansal03/Ball-Runner/assets/112632578/54d79d40-f927-43f9-a73f-157a3452d539">
 
 
+
 #Collection of coins
+
+<img width="1440" alt="Screenshot 2023-08-14 at 10 46 26 PM" src="https://github.com/kashishbansal03/Ball-Runner/assets/112632578/f7ba022b-4b71-4f0d-b5d6-dbcb6f6f968a">
+
 
 
 
