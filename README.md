@@ -12,7 +12,7 @@ As you immerse yourself in the Endless Ball Runner, remember that beneath the se
 # Landing View
 ![image](https://github.com/kashishbansal03/Ball-Runner/assets/112632578/fdbc79b7-af87-43fd-9863-2fc37fe5f6a3)
 
-#Game Over 
+# Game Over 
 <img width="1440" alt="Screenshot 2023-08-14 at 10 45 28 PM" src="https://github.com/kashishbansal03/Ball-Runner/assets/112632578/54d79d40-f927-43f9-a73f-157a3452d539">
 
 
